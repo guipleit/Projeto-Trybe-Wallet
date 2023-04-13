@@ -47,7 +47,10 @@ class Table extends Component {
 
     return (
       <div className="table-container">
-        <table className="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
+        <table
+          className="table is-bordered
+         is-striped is-narrow is-hoverable is-fullwidth"
+        >
           <thead>
             <tr>
               <th>Descrição</th>
