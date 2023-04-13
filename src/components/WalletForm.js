@@ -52,8 +52,8 @@ class WalletForm extends Component {
       value: '',
       description: '',
       currency: 'USD',
-      method: '',
-      tag: '',
+      method: 'Dinheiro',
+      tag: 'Alimentação',
       idCounter: idCounter + 1,
     });
   };
